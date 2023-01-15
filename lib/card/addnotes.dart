@@ -74,7 +74,7 @@ class _AddNotesState extends State<AddNotes> {
                     style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
                   ),
                   SizedBox(
-                    height: 16,
+                    height: 17,
                   ),
                   InkWell(
                       onTap: () {},
